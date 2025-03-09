@@ -1,7 +1,5 @@
 #Portifólio Olá, Bem vindo ao meu projeto de portifólio.
 
-![image](https://portifolio-livid-six-30.vercel.app/))
-
 ## Ferramentas utilizadas:
 
 * HTML
